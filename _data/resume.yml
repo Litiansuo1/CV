@@ -34,12 +34,12 @@ main: #简历主要内容，
     duration: "2019年1月 - 2022年12月"
     sub: 美国堪萨斯州曼哈顿
     detail: 经济学文学学士 (Bachelor of Arts in Economics)
-    重要课程
+    detail: 重要课程
   - title: Kansas State University (堪萨斯州立大学)
     duration: "2023年1月 - 2025年5月"
     sub: 美国堪萨斯州曼哈顿
     detail: 经济学文学硕士 (Master of Arts in Economics)
-    重要课程
+    detail: 重要课程
   - title: Kansas State University
     duration: Jan 2019 - Dec 2022
     sub: Manhattan Kansas
