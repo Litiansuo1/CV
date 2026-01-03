@@ -55,13 +55,11 @@ main: #简历主要内容，
   content:
   - title: 专业技能
     list: #itmems 可以小块的方式显示
-    - 汉语
+    - 数据可视化：Power BI、Tableau
     - 英语
     - R
     - Stata 17
-    - Power BI
     - SAS
-    - Tableau
   - title: Skill Group
     summary: Microsoft Office Software (Word, Excel, PPT, etc.), Stata 17, Tableau, Power BI, R, SAS
 
