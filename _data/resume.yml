@@ -30,14 +30,16 @@ main: #简历主要内容，
 - type: education #类别为ID
   name: 教育 #显示名称，空则使用type
   content: #内容基本格式 标题-副标题-日期-详细内容 (都允许空)
-  - title: 堪萨斯州立大学
+  - title: Kansas State University (堪萨斯州立大学)
     duration: "2019年1月 - 2022年12月"
-    sub: 堪萨斯曼哈顿
-    detail: 经济学文学学士
-  - title: 堪萨斯州立大学
+    sub: 美国堪萨斯州曼哈顿
+    detail: 经济学文学学士 (Bachelor of Arts in Economics)
+    重要课程
+  - title: Kansas State University (堪萨斯州立大学)
     duration: "2023年1月 - 2025年5月"
-    sub: 堪萨斯曼哈顿
-    detail: 经济学文学硕士
+    sub: 美国堪萨斯州曼哈顿
+    detail: 经济学文学硕士 (Master of Arts in Economics)
+    重要课程
   - title: Kansas State University
     duration: Jan 2019 - Dec 2022
     sub: Manhattan Kansas
