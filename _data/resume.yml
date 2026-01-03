@@ -45,8 +45,10 @@ main: #简历主要内容，
      GPA: 3.676/4.0
      主修课程: 劳动经济学、应用计量经济学、宏观经济理论、国际贸易、健康经济学、微观经济学理论、交通运输、公共财政、科学中的统计方法、博弈论、回归分析和方差分析
   - title: 毕业论文
-    sub: 导师 Dr.Hugh Cassidy
-    detail: Education-Occupation Mismatch Among Immigrants: Evidence from the National Survey of College Graduates
+    sub: |
+     导师: Dr.Hugh Cassidy
+    detail: |
+     Education-Occupation Mismatch Among Immigrants: Evidence from the National Survey of College Graduates
 
 - type: skills
   # name: "技能"
