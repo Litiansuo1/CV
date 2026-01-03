@@ -5,7 +5,7 @@ title: "陈烈基的简历"
 lang: "zh" #语言设置 zh表示中文 en 表示英语
 name: "陈烈基"
 jobtitle: "" #可空不显示
-photo: "" #照片可空，不显示
+photo: "assets/img/4a9ee7c3204c36953bb6a3e39dd682c5.jpg" #照片可空，不显示
 
 #联系方式
 contact: #联系方式连接等3~5行
@@ -55,13 +55,10 @@ main: #简历主要内容，
   content:
   - title: 专业技能
     items: #itmems 可以小块的方式显示
-    - 数据可视化：Power BI、Tableau
-    - 英语
-    - R
-    - Stata 17
-    - SAS
-  - title: Skill Group
-    summary: Microsoft Office Software (Word, Excel, PPT, etc.), Stata 17, Tableau, Power BI, R, SAS
+    - 数据可视化：使用Power BI、Tableau制作饼图、柱状图等
+    - 数据分析：熟悉 Stata 17、R 语言、SAS，具备基础数据处理与分析能力
+    - 办公软件：熟练使用Word、Excel、PowerPoint进行文档编辑、数据整理与汇报展示
+    - 经济学知识与应用：熟悉宏观、微观经济学，使用计量经济学方法推断因果关系以及提出建议
 
 - type: experience
   name: 经验
