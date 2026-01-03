@@ -54,7 +54,7 @@ main: #简历主要内容，
   # name: "技能"
   content:
   - title: 专业技能
-    list: #itmems 可以小块的方式显示
+    items: #itmems 可以小块的方式显示
     - 数据可视化：Power BI、Tableau
     - 英语
     - R
