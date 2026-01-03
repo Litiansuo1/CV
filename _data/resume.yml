@@ -33,10 +33,10 @@ main: #简历主要内容，
   - title: Kansas State University (堪萨斯州立大学)
     duration: "2019年1月 - 2022年12月"
     sub: 美国堪萨斯州曼哈顿
-    detail: |
-     经济学文学学士 (Bachelor of Arts in Economics)
-     GPA: 3.406/4.0
-     主修课程: 宏观经济学、微观经济学、计量经济学、发展经济学、管理经济学、货币和银行、统计学、体育经济学、商业分析
+    lists: |
+     - 经济学文学学士 (Bachelor of Arts in Economics)
+     - GPA: 3.406/4.0
+     - 主修课程: 宏观经济学、微观经济学、计量经济学、发展经济学、管理经济学、货币和银行、统计学、体育经济学、商业分析
   - title: Kansas State University (堪萨斯州立大学)
     duration: "2023年1月 - 2025年5月"
     sub: 美国堪萨斯州曼哈顿
@@ -47,13 +47,13 @@ main: #简历主要内容，
   - title: 毕业论文
     sub: |
      导师: Dr.Hugh Cassidy
-    detail: |
+    detail: 
      Education-Occupation Mismatch Among Immigrants: Evidence from the National Survey of College Graduates
 
 - type: skills
   # name: "技能"
   content:
-  - title: 编程语言
+  - title: 专业技能
     items: #itmems 可以小块的方式显示
     - 汉语
     - 英语
