@@ -77,37 +77,23 @@ main: #简历主要内容，
     #可以设置open默认展开
 
 - type: projects
-  name: Projects
+  name: 课程项目
   content:
-  - title: 项目名称
-    duration: xxxx年xx月 - yyyy年yy月
-    detail: 项目和工作介绍，项目总结.
-    sub: 维护者
-  - title: Project Name
-    summary: Projects' introduction or summary
-    detail:
-      md: _data/demo.md
-    sub: Creator and maintainer.
+  - title: 计量经济学
+    duration: 2021年09月 - 2021年12月
+    detail: 使用Stata 17运行不同的模型和制作图像，包括散点图和折线图。执行线性回归并确定影响收入的因素等。
+    sub: 
+  - title: 公共财政
+    duration: 2024年01月 - 2024年05月
+    detail: 检索和阅读与小组课题相关的英文论文和报告并整理，应用公共财政理论到所选课题，提出改善政府项目的建议。
+    sub: 小组项目
+  - title: 回归分析和方差分析
+    duration: 2025年01月 - 2025年05月
+    detail: 使用R和SAS运行不同的线性和非线性回归模型，分析和解读回归结果。
+    sub: 
    #可继续添加更多内容
 
 #others 其他简略内容(列表)
-others: #其他列表显示
-- type: others #ID可以为空
-  name: '其他'
-  content: #选择需要的格式
-  - 单行文字
-  - title: "加粗:"
-    text: "列表项二"
-  - title: "兴趣:"
-    items: #单行列表
-    - 睡觉
-    - 吃饭
-    - coding
-    - 徒步
-  - title: 列表
-    list:
-    - 第一项
-    - 第二项
 #- type: 
 #  name: '其他'
 #  content: #选择需要的格式
