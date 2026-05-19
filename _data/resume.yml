@@ -36,14 +36,12 @@ main: #简历主要内容，
     detail: |
      经济学文学学士 (Bachelor of Arts in Economics)
      GPA: 3.406/4.0
-     主修课程: 宏观经济学、微观经济学、计量经济学、发展经济学、管理经济学、货币和银行、统计学、体育经济学、商业分析
   - title: Kansas State University (堪萨斯州立大学)
     duration: "2023年1月 - 2025年5月"
     sub: 美国堪萨斯州曼哈顿
     detail: |
      经济学文学硕士 (Master of Arts in Economics)
      GPA: 3.676/4.0
-     主修课程: 劳动经济学、应用计量经济学、宏观经济理论、国际贸易、健康经济学、微观经济学理论、交通运输、公共财政、科学中的统计方法、博弈论、回归分析和方差分析
   - title: 毕业论文
     sub: |
      导师: Dr.Hugh Cassidy
