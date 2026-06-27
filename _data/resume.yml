@@ -70,6 +70,15 @@ main: #简历主要内容，
     detail: 
     # open: open
     #可以设置open默认展开
+  - title: 衍生品结算
+    sub: 深圳市万海投资顾问有限公司
+    duration: "2026年06月 - "
+    tags:
+    - 后台
+    summary: 更新客户估值表，客户出入金处理和记录、换汇、保证金划算、融资额度调整，监管账户风控进度并报告触发预警的账户，账户结算，处理客户补仓
+    detail: 
+    # open: open
+    #可以设置open默认展开
 
 - type: projects
   name: 课程项目
